@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z0xlvWVrznBNUgZCTT5e-1" value="目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Z0xlvWVrznBNUgZCTT5e-1" value="&lt;a href=&quot;https://github.com/xyfll7/xyfll7&quot;&gt;目标:下周一上线小程序&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
