@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
-    "gitt":"git add . && git commit -m update && git push"
+    "gitt":"git add . && git commit  && git push"
   },
   "keywords": [],
   "author": "",
