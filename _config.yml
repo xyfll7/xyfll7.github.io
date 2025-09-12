@@ -1,4 +1,0 @@
-title: 我的博客
-description: 这是一个测试 Jekyll 主题
-theme: minima   # 这里就是主题名，可以换成别的
-remote_theme: "jekyll/minima@1e8a445"
