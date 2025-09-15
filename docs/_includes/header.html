@@ -1,0 +1,10 @@
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+</nav>
+
+<ul>
+{% for member in site.data.team %}
+  <li>{{ member.name }} - {{ member.role }}</li>
+{% endfor %}
+</ul>
