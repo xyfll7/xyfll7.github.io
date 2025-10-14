@@ -177,3 +177,33 @@
 - **故事总数**: 数千篇
 - **难度梯度**: 从字母学习到经典文学
 - **FSID**: 每个系列唯一标识符
+
+
+## 🎵 **Little Fox Songs 系列概览**
+
+### **歌曲系列** (17系列)
+| 系列名称 | SRV ID | 歌曲数 | 描述 |
+|----------|--------|--------|------|
+| All-Time Favorites | SRV01014 | 35 | 最受欢迎的经典歌曲 |
+| Action Songs | SRV01025 | 13 | 带动作的舞蹈歌曲 |
+| Nursery Rhymes 1 | SRV01026 | 32 | 经典童谣合集1 |
+| Nursery Rhymes 2 | SRV01027 | 34 | 经典童谣合集2 |
+| Nursery Rhymes 3 | SRV01028 | 32 | 经典童谣合集3 |
+| Nursery Rhymes 4 | SRV01029 | 32 | 经典童谣合集4 |
+| Little Fox Theme Songs | SRV01030 | 16 | Little Fox角色主题曲 |
+| Learning Songs | SRV01031 | 35 | 数字颜色学习歌曲 |
+| Phonics Songs | SRV01032 | 53 | 字母发音教学歌曲 |
+| Sight Words Songs | SRV01033 | 20 | 100个高频词说唱 |
+| Conversation Songs 1 | SRV01034 | 36 | Mrs. Kelly's Class对话歌 |
+| Conversation Songs 2 | SRV01035 | 36 | Magic Marker对话歌 |
+| Sing-Alongs | SRV01036 | 5 | Freddy跟唱学习歌 |
+| Lullabies | SRV01037 | 15 | 甜美睡前摇篮曲 |
+| Christmas Songs | SRV01038 | 20 | 圣诞颂歌合集 |
+| Halloween & More Holiday Songs | SRV01039 | 13 | 节日主题歌曲 |
+
+## 📊 **统计**
+- **总系列**: 17个
+- **总歌曲**: 376首
+- **核心功能**: SRV ID标识、点击跳转、特色图片
+- **教育分类**: 童谣、发音、对话、节日、学习歌曲
+- **特色**: 互动性强，结合动作和跟唱教学
