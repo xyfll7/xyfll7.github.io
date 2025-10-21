@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/xyfll7/xyfll7.github.io/App1_pack (Package).appinstaller"
-	Version="1.0.4.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Uri="https://raw.githubusercontent.com/xyfll7/xyfll7.github.io/refs/heads/main/App1_pack (Package).appinstaller"
+	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="c0c4cc1e-f6f8-4d98-865d-504a22a214ae"
-		Version="1.0.4.0"
+		Version="1.0.6.0"
 		Publisher="CN=l7"
-		Uri="https://github.com/xyfll7/xyfll7.github.io/App1_pack (Package)_1.0.4.0_Debug_Test/App1_pack (Package)_1.0.4.0_x86_x64_Debug.msixbundle" />
+		Uri="https://raw.githubusercontent.com/xyfll7/xyfll7.github.io/refs/heads/main/App1_pack (Package)_1.0.6.0_Debug_Test/App1_pack (Package)_1.0.6.0_x86_x64_Debug.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/xyfll7/xyfll7.github.io/App1_pack (Package)_1.0.4.0_Debug_Test/Dependencies/x86/Microsoft.WindowsAppRuntime.1.8.msix"
+			Uri="https://raw.githubusercontent.com/xyfll7/xyfll7.github.io/refs/heads/main/App1_pack (Package)_1.0.6.0_Debug_Test/Dependencies/x86/Microsoft.WindowsAppRuntime.1.8.msix"
 			Version="8000.642.119.0" />
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/xyfll7/xyfll7.github.io/App1_pack (Package)_1.0.4.0_Debug_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
+			Uri="https://raw.githubusercontent.com/xyfll7/xyfll7.github.io/refs/heads/main/App1_pack (Package)_1.0.6.0_Debug_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
 			Version="8000.642.119.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00.Debug.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/xyfll7/xyfll7.github.io/App1_pack (Package)_1.0.4.0_Debug_Test/Dependencies/x64/Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx"
+			Uri="https://raw.githubusercontent.com/xyfll7/xyfll7.github.io/refs/heads/main/App1_pack (Package)_1.0.6.0_Debug_Test/Dependencies/x64/Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx"
 			Version="14.0.33728.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00.Debug.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/xyfll7/xyfll7.github.io/App1_pack (Package)_1.0.4.0_Debug_Test/Dependencies/x86/Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx"
+			Uri="https://raw.githubusercontent.com/xyfll7/xyfll7.github.io/refs/heads/main/App1_pack (Package)_1.0.6.0_Debug_Test/Dependencies/x86/Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx"
 			Version="14.0.33728.0" />
 	</Dependencies>
 	<UpdateSettings>
