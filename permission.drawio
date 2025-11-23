@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="干洗工厂" vertex="1">
-          <mxGeometry height="60" width="120" x="-260" y="1740" as="geometry" />
+          <mxGeometry height="60" width="120" x="-255" y="1740" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;" value="B站点" vertex="1">
           <mxGeometry height="530" width="200" x="-590" y="1950" as="geometry" />
