@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="lsKXEA2wy9R8bCnJ0Sjd">
-    <mxGraphModel dx="3686" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2083" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,6 +132,15 @@
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user3" vertex="1">
           <mxGeometry height="30" width="50" x="-280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SXHf6LSLG1hlEHmA3aWF-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Functional Resources" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="SXHf6LSLG1hlEHmA3aWF-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Data Resources" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="SXHf6LSLG1hlEHmA3aWF-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="System Resources" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
