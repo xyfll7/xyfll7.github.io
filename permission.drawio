@@ -122,7 +122,7 @@
           <mxGeometry height="30" width="50" x="100" y="300" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" value="user list" vertex="1">
-          <mxGeometry height="230" width="120" x="-280" y="180" as="geometry" />
+          <mxGeometry height="230" width="80" x="-280" y="180" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="user1" vertex="1">
           <mxGeometry height="30" width="50" x="-280" y="220" as="geometry" />
