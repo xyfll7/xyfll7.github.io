@@ -331,8 +331,8 @@
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="user8" vertex="1">
           <mxGeometry height="30" width="50" x="-335" y="2140" as="geometry" />
         </mxCell>
-        <mxCell id="SXHf6LSLG1hlEHmA3aWF-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=right;" value="业务资源.快递" vertex="1">
-          <mxGeometry height="30" width="90" x="-225" y="2140" as="geometry" />
+        <mxCell id="SXHf6LSLG1hlEHmA3aWF-178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=right;" value="业务资源.扫码揽收" vertex="1">
+          <mxGeometry height="30" width="115" x="-250" y="2140" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=right;" value="业务资源.干洗" vertex="1">
           <mxGeometry height="30" width="90" x="-225" y="2180" as="geometry" />
