@@ -283,8 +283,8 @@
             <mxPoint x="-260" y="1960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXHf6LSLG1hlEHmA3aWF-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="干洗工厂" vertex="1">
-          <mxGeometry height="220" width="165" x="-255" y="1740" as="geometry" />
+        <mxCell id="SXHf6LSLG1hlEHmA3aWF-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;" value="干洗工厂" vertex="1">
+          <mxGeometry height="220" width="200" x="-290" y="1740" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;" value="B站点" vertex="1">
           <mxGeometry height="530" width="200" x="-590" y="1950" as="geometry" />
@@ -365,13 +365,16 @@
           <mxGeometry height="30" width="150" x="-285" y="2510" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="user10" vertex="1">
-          <mxGeometry height="30" width="50" x="-255" y="1780" as="geometry" />
+          <mxGeometry height="30" width="50" x="-290" y="1780" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="user11" vertex="1">
-          <mxGeometry height="30" width="50" x="-255" y="1820" as="geometry" />
+          <mxGeometry height="30" width="50" x="-290" y="1820" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=right;" value="功能资源.查看订单" vertex="1">
           <mxGeometry height="30" width="110" x="-200" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="SXHf6LSLG1hlEHmA3aWF-192" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=right;" value="功能资源.下载对账单" vertex="1">
+          <mxGeometry height="30" width="130" x="-220" y="1810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
