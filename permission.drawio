@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="lsKXEA2wy9R8bCnJ0Sjd">
-    <mxGraphModel dx="3193" dy="-304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3882" dy="63" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,9 +198,6 @@
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=right;" value="业务资源.查看订单.我的" vertex="1">
           <mxGeometry height="30" width="140" x="-815" y="1920" as="geometry" />
-        </mxCell>
-        <mxCell id="SXHf6LSLG1hlEHmA3aWF-194" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;" value="干洗工厂" vertex="1">
-          <mxGeometry height="220" width="200" x="-1640" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-197" edge="1" parent="1" source="SXHf6LSLG1hlEHmA3aWF-196" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SXHf6LSLG1hlEHmA3aWF-200">
           <mxGeometry relative="1" as="geometry">
