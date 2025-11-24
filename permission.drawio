@@ -441,6 +441,18 @@
         <mxCell id="xhY3SqTDTsG2of3Lx1hj-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=right;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;数据资源.订单.干洗&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="-1422.76" y="1692.83" as="geometry" />
         </mxCell>
+        <mxCell id="xhY3SqTDTsG2of3Lx1hj-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=5;" value="user list {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user1&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user2&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user3&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user4&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user5&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user6&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user7&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user8&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user9&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user10&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user11&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user12&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user13&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user14&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user15&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;user16&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;....&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="260" x="-40" y="1987.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xhY3SqTDTsG2of3Lx1hj-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="user2" vertex="1">
+          <mxGeometry height="30" width="50" x="-1530" y="1712.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xhY3SqTDTsG2of3Lx1hj-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="user3" vertex="1">
+          <mxGeometry height="30" width="50" x="-1800" y="2112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xhY3SqTDTsG2of3Lx1hj-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="user1" vertex="1">
+          <mxGeometry height="30" width="50" x="-480" y="1680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
