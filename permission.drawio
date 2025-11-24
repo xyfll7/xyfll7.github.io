@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Page-1" id="lsKXEA2wy9R8bCnJ0Sjd">
-    <mxGraphModel dx="3591" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2933" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,8 +164,8 @@
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="团长" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="1740" as="geometry" />
         </mxCell>
-        <mxCell id="SXHf6LSLG1hlEHmA3aWF-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=10;" value="业务资源 {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;快递&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;干洗&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;团购&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;功能资源{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;蓝牙模块&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;对账单&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;订单综合查询&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;面单号账号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;下载任务列表&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;云打印机&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;绑定视频号&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
-          <mxGeometry height="360" width="120" x="1160" y="1250" as="geometry" />
+        <mxCell id="SXHf6LSLG1hlEHmA3aWF-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=10;" value="业务资源 {&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;快递&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;干洗&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;团购&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;功能资源{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;蓝牙模块&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;对账单&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;订单综合查询&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;面单号账号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;下载任务列表&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;云打印机&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;绑定视频号&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;br&gt;&lt;div&gt;数据资源{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;团长{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="260" x="1160" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;" value="C站点" vertex="1">
           <mxGeometry height="540" width="200" x="490" y="1860" as="geometry" />
@@ -201,7 +201,7 @@
           <mxGeometry height="30" width="50" x="240" y="1970" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;" value="B站点" vertex="1">
-          <mxGeometry height="530" width="200" x="-10" y="1860" as="geometry" />
+          <mxGeometry height="640" width="200" x="-10" y="1860" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="user1" vertex="1">
           <mxGeometry height="30" width="50" x="-10" y="1890" as="geometry" />
@@ -384,7 +384,7 @@
           <mxGeometry height="30" width="140" x="-560" y="2310" as="geometry" />
         </mxCell>
         <mxCell id="SXHf6LSLG1hlEHmA3aWF-213" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="快递服务部" vertex="1">
-          <mxGeometry height="60" width="120" x="1100" y="1740" as="geometry" />
+          <mxGeometry height="60" width="120" x="770" y="1770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
